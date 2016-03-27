@@ -1,1 +1,1 @@
-"# react-starter" 
+"React kit start for rookie React"
